@@ -10,7 +10,7 @@ public class user_input {
    }
 
     public static void main (String args[]) {
-userinput jabbar = new userinput();
+user_input jabbar = new user_input();
 jabbar.input();
     }
 }
